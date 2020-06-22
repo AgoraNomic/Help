@@ -2,7 +2,7 @@
 
 At minimum to play Agora, you need to subscribe to the four mailing lists. Do not sign up for the digest, it's too confusing to use for play. Most players filter agora messages to their own folder, and some players even use an email account just for Agora. If you're not sure how to filter your email, just look up "filter" and your email provider/client.
 
-See [email advice](EmailAdvice) for more specific tips.
+See [email advice](EmailAdvice.md) for more specific tips.
 
 ## The Four Lists
 
