@@ -34,7 +34,7 @@ Full Logical Ruleset. All of the rules and annotations that include when they we
 
 ### ISIDTID
 
-I say I do, therefore I do. This is how many actions work, but some are more restricted. Usually this comes up when people are debating whether an action can be done just by saying "I do X".
+I say I do, therefore I do. Most actions are done 'by announcement', meaning they are done just by saying you do them. Others have restrictions on how or when they can be done. Sometimes the rules are ambiguous about this, which can cause debates.
 
 ### MMI
 
