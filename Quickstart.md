@@ -16,7 +16,7 @@ The mailing lists are part of how we keep things organized. They each serve a di
 
 * Tue/BAK is an emergency backup. The other three mailing lists have the same host, so if something is wrong with them gameplay may temporarily happen here. Additionally, players will ocassionally try to sneak actions through here because people don't pay as much attention to it. Usually, this list is inactive.
 
-Agora-Discussion is the only one where the things said have no gameplay effect. Sometimes people accidentally send things to Agora-Discussion when they meant it to have a gameplay effect. This is usually responded to with "Not to the Proper Forum (NttPF)", and the original sender may quote it and send it to the proper list with the message "This Time to the Proper Forum (TTttPF)".
+Agora-Discussion is the only one where the things said have no gameplay effect. Sometimes people accidentally send things to Agora-Discussion when they meant it to have a gameplay effect. This is usually responded to with "Not to the Public Forum (NttPF)", and the original sender may quote it and send it to the proper list with the message "This Time to the Public Forum (TTttPF)".
 
 You may find it useful to have your email filter and tag each mailing list so you can quickly identify them and sort them.
 
