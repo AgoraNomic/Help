@@ -6,7 +6,7 @@ See our [email advice](Email) for more specific tips on filters and other things
 
 ### The Four Lists
 
-The mailing lists are part of how we keep things organized. They each serve a different purpose:
+There are four mailing lists, each with a different purpose:
 
 * Agora-Official is for reports that list current game information, or things that everyone is able to respond to, like voting on proposals and elections.
 
@@ -18,7 +18,9 @@ The mailing lists are part of how we keep things organized. They each serve a di
 
 Agora-Discussion is the only one where the things said have no gameplay effect. Sometimes people accidentally send things to Agora-Discussion when they meant it to have a gameplay effect. This is usually responded to with "Not to the Public Forum (NttPF)", and the original sender may quote it and send it to the proper list with the message "This Time to the Public Forum (TTttPF)".
 
-You may find it useful to have your email filter and tag each mailing list so you can quickly identify them and sort them.
+#### Interacting with the mailing lists
+
+When you send a message to a mailing list, the mailing list sends the message back to all subscribers (including you). This might take a minute or two. Replying to messages is also done by replying to the mailing list. If you hit 'reply' in your client it will usually address the reply to agora-discussion. If you're trying to perform an action, make sure you change the "to" to agora-business.
 
 ### Keeping Up
 
