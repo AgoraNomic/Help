@@ -44,7 +44,9 @@ Play can change frequently, so some of this could be inaccurate. This was last u
 
 ### Taking Actions
 
-Most actions are done simply by saying "I \[do the action\]" in agora-business. Some actions have conditions you have to meet, outlined in the rules. If you make a mistake taking an action, other players will gladly help you fix it.
+Most actions are done "by announcement" which means you simply declare that you do it in agora-business (or more rarely agora-official). Some actions have restrictions, which are outlined in the rules.
+
+If you make a mistake while trying to perform an action, other players will gladly help you fix it.
 
 ### Registration
 
