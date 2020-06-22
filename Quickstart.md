@@ -1,10 +1,10 @@
-# Getting Set Up
+## Getting Set Up
 
 At minimum to play Agora, you need to subscribe to the four mailing lists. Do not sign up for the digest, it's too confusing to use for play. Most players filter agora messages to their own folder, and some players even use an email account just for Agora.
 
 See our [email advice](Email) for more specific tips on filters and other things that will help you get organized.
 
-## The Four Lists
+### The Four Lists
 
 The mailing lists are part of how we keep things organized. They each serve a different purpose:
 
@@ -20,7 +20,7 @@ Agora-Discussion is the only one where the things said have no gameplay effect. 
 
 You may find it useful to have your email filter and tag each mailing list so you can quickly identify them and sort them.
 
-## Keeping Up
+### Keeping Up
 
 When Agora is very active, it's possible to get 50+ messages a day. This can be overwhelming. It's important to realize that players aren't expected to read and respond to every message every day. If you miss something, other players will help you out.
 
@@ -35,3 +35,21 @@ Knowing what to pay attention to and what to skim or even ignore can be difficul
 * Consider the thread. If the original message in the thread was irrelevant to you, the replies likely are too. A thread can often devolve to a small set of players responding to each other, which is likely not relevant to you.
 
 Remember, you don't have to engage in every side game and activity that happens in Agora. Engage with the parts that interest you, and feel free to ignore the others.
+
+## Playing
+
+Play can change frequently, so some of this could be inaccurate. This was last updated **June 22, 2020**.
+
+### Taking Actions
+
+Most actions are done simply by saying "I \[do the action\]" in agora-business. Some actions have conditions you have to meet, outlined in the rules. If you make a mistake taking an action, other players will gladly help you fix it.
+
+### Registration
+
+Simply send a message that says "I register" to agora-business@agoranomic.org. You may want to specify your prefered name as well.
+
+When you register you can award yourself, or be awarded by another player, a Welcome Package. This will give you some items. Check the rules to see what it specifically gives you right now.
+
+### Voting
+
+You can vote on any proposals that are distributed while you are a player. The Promotor will Distribute proposals in agora-official with their full text. You can specify your vote for each one as FOR, AGAINST, PRESENT, or a conditional vote such as "endorse \[Player\]" or even something more complex.
