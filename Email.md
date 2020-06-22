@@ -1,3 +1,7 @@
+# Consider a Desktop Email Client
+
+Several players participate primarily through web clients (like gmail.com). There's nothing wrong with this if it works for you. However, many more experienced players use desktop clients (like thunderbird). Desktop clients can make it easier to read and format more complex messages as well as filter messages for information.
+
 # Setting up filters
 
 ## Gmail
@@ -13,10 +17,6 @@ Apply this filter and mark 'never send to spam'. You can also apply a label and 
 If you're fulfilling an office it can be useful to create filters to find emails related to it. Here's an example filter to catch votes:
 
     (list:(agora-business.agoranomic.org OR list:(agora-business.agoranomic.org)) AND (assessor OR promotor OR for OR against OR present OR endorse)
-
-# Consider a Desktop Email Client
-
-Several players participate primarily through web clients (like gmail.com). There's nothing wrong with this if it works for you. However, many more experienced players use desktop clients (like thunderbird). Desktop clients can make it easier to read and format more complex messages as well as filter messages for information.
 
 # Mailing List Ettiquette
 
