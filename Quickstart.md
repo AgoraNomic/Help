@@ -1,3 +1,5 @@
+If you have any specific questions there's also [the unofficial Agora discord](https://discord.gg/JCC6YGc)
+
 ## Getting Set Up
 
 At minimum to play Agora, you need to subscribe to the four mailing lists. Do not sign up for the digest, it's too confusing to use for play. Most players filter agora messages to their own folder, and some players even use an email account just for Agora.
