@@ -2,10 +2,6 @@
 
 Things that are typical to Agora, though not necessarily legally codified.
 
-### Spivak Pronouns
-
-Agora uses a type of neutral pronoun called Spivak for all players. This is simply e/em/eir.
-
 ### -or
 
 Agora tends to name offices by taking a regular title and replacing -er with -or. For example: Rulekeepor, Webmastor, Treasuror.
@@ -14,7 +10,27 @@ Agora tends to name offices by taking a regular title and replacing -er with -or
 
 A proto (or protoproposal, or protosal) is an unfinished draft of a proposed rule change, submitted for feedback.
 
+### Scam
+
+A way to win the game or gain something that takes advantage of an unintended consequence of the rules. Scams are generally allowed in Agora, as long as the scammers cause minimal disruption to the game. That said, when a scam is occuring most players will try to stop it.
+
+### Spivak Pronouns
+
+Agora uses a type of neutral pronoun called Spivak for all players. This is simply e/em/eir.
+
 ## Abbreviations
+
+### A-B
+
+Agora Business AKA agora-business@agoranomic.org AKA BUS
+
+### A-D
+
+Agora Discussion AKA agora-discussion@agoranomic.org AKA DIS
+
+### A-O
+
+Agora Official AKA agora-official@agoranomic.org AKA OFF
 
 ### CFJ
 

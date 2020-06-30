@@ -1,48 +1,34 @@
 If you have any specific questions there's also [the unofficial Agora discord](https://discord.gg/JCC6YGc)
 
-## Getting Set Up
+## Getting Email Set Up
 
-At minimum to play Agora, you need to subscribe to the four mailing lists. Do not sign up for the digest, it's too confusing to use for play. Most players filter agora messages to their own folder, and some players even use an email account just for Agora.
+At minimum to play Agora, you need to subscribe to the four mailing lists. Do not sign up for the digest, it's too confusing to use for play. During busy periods, there can be up to 50+ message a day (don't worry, you don't need to read them all; see below). **You should either filter Agora messages to their own folder or use a separate email account just for Agora**.
 
-See our [email advice](Email) for more specific tips on filters and other things that will help you get organized.
+See [the email advice page](Email) for more specific tips on interacting with the mailing lists and setting up your email to make things easier for you.
 
-### The Four Lists
+## Following Along
 
-There are four mailing lists, each with a different purpose:
+For technical information see the email advice page linked above.
 
-* Agora-Official is for reports that list current game information, or things that everyone is able to respond to, like voting on proposals and elections.
+As noted, there can be many things happening in Agora at once. In reality, Agora is both a single game and a community that often has a lot of side activity. You can choose to what extent you want to be involved in all the subgames and side activities that are happening.
 
-* Agora-Business is for taking game actions. It's where most things are done.
+This means that while there can be many messages, most are not immediately important to you. Even experienced players will skim or entirely ignore many messages. You'll get better at figuring out what you should and shouldn't focus on as you play, but here's some quick rules:
 
-* Agora-Discussion is for discussing the game. Things sent here have no gameplay effect.
+* Agora-Discussion ("DIS:")is just discussion. It's helpful for context, but not necessary to read.
 
-* Tue/BAK is an emergency backup. The other three mailing lists have the same host, so if something is wrong with them gameplay may temporarily happen here. Additionally, players will ocassionally try to sneak actions through here because people don't pay as much attention to it. Usually, this list is inactive.
+* Agora-Official is for reports and events that impact all players. You don't need to read and fully understand every report right away. Look for messages that start with "OFF: [Promotor]" and "OFF: [Assessor]" to see proposals you can vote on and their results.
 
-Agora-Discussion is the only one where the things said have no gameplay effect. Sometimes people accidentally send things to Agora-Discussion when they meant it to have a gameplay effect. This is usually responded to with "Not to the Public Forum (NttPF)", and the original sender may quote it and send it to the proper list with the message "This Time to the Public Forum (TTttPF)".
+* Gameplay happens in Agora-Business ("BUS:"), but remember that not all gameplay effects you.
 
-#### Interacting with the mailing lists
+* When in doubt, search for messages with your username and start there.
 
-When you send a message to a mailing list, the mailing list sends the message back to all subscribers (including you). This might take a minute or two. Replying to messages is also done by replying to the mailing list. If you hit 'reply' in your client it will usually address the reply to agora-discussion. If you're trying to perform an action, make sure you change the "to" to agora-business.
+* Read responses to messages you sent, they're very likely to be helpful to you.
 
-### Keeping Up
-
-When Agora is very active, it's possible to get 50+ messages a day. This can be overwhelming. It's important to realize that players aren't expected to read and respond to every message every day. If you miss something, other players will help you out.
-
-Knowing what to pay attention to and what to skim or even ignore can be difficult at first, and there's no single right answer. However, these guidelines might help you out:
-
-* Agora-Discussion is just discussion. Nothing posted there is ever necessary reading. Skim or even entirely ignore it if you don't have time.
-
-* Agora-Official is mostly reports. Reports are there for reference. You don't need to read them unless you're looking for specific information.
-
-* Most actions don't involve or effect you. Agora often has many side games and activities going on, some of which only involve a handful of players. If you don't understand what someone is doing in a message, feel free to ask. But there's a good chance if it looks like it doesn't impact you, you can ignore it.
-
-* Consider the thread. If the original message in the thread was irrelevant to you, the replies likely are too. A thread can often devolve to a small set of players responding to each other, which is likely not relevant to you.
-
-Remember, you don't have to engage in every side game and activity that happens in Agora. Engage with the parts that interest you, and feel free to ignore the others.
+And as always, don't be afraid to ask questions on Agora-Discussion or the IRC or Discord.
 
 ## Playing
 
-Play can change frequently, so some of this could be inaccurate. This was last updated **June 22, 2020**.
+Play can change frequently, so some of this could be inaccurate. This was last updated **June 30, 2020**. If you attempt to do things as described here and it doesn't work, other players will gladly help you.
 
 ### Taking Actions
 
