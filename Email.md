@@ -1,15 +1,14 @@
 # Mail Providers/Clients
 
-Agora should be playable from any mail provider or client. That said, some are more agreeable than others. The web interface for many popular mail providers (such as gmail) lacks certain features that makes messages more readable. There are solutions to this.
+Agora should be playable from any mail provider or client. That said, some are more agreeable than others. The web interface for many popular mail providers (such as Gmail) lacks certain features that makes messages more readable. There are solutions to this.
 
-**Consider a desktop client.** A desktop client (such as Thunderbird), will work with most mail providers (including gmail). They can make up for the deficits of the web versions of these providers by giving you access to all the features that they don't support.
+**Consider a desktop client.** A desktop client (such as Thunderbird), will work with most mail providers (including Gmail). They can make up for the deficits of the web clients provided by these services by giving you access to all the features that they don't support.
 
-Of course, a big advantage of email is choice and portability. I and other experienced players use mobile, web, and desktop clients depending on current circumstances and needs. And some players get by exclusively using gmail's web client. So don't worry too much about it.
+Of course, a big advantage of email is choice and portability. I and other experienced players use mobile, web, and desktop clients depending on current circumstances and needs. And some players get by exclusively using Gmail's web client. So don't worry too much about it.
 
 # Mailing List Basics
 
-Agora is played on mailing lists. The mailing lists are set up such that when you send a message to one of the lists, it sends that message to all subscribers. Each list will prefix DIS, BUS, or OFF before new
-messages to the list and Re: before replies to existing messages.
+Agora is played on mailing lists. The mailing lists are set up such that when you send a message to one of the lists, it sends that message to all subscribers. Each list will prefix DIS, BUS, or OFF before new messages to the list and Re: before replies to existing messages.
 
 To reply to a message on the mailing list, simply hit reply but look at what is filled in for the "To:" field. If you did a normal reply to Agora-Business or Agora-Official, it's likely defaulting to sending your reply to Agora-Discussion. Just change the address if you want it to go elsewhere. Different reply methods (reply, reply to list, reply to sender) and different email clients will have different default behavior, so just double check that your message is going where you want it to.
 
