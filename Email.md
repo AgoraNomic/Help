@@ -24,6 +24,8 @@ There are certain habits that are not required by the game but help to keep the 
 
 **Use Plain Text Formatting.** Non-plain text formatting options will often make complex emails difficult to read.
 
+**Hard-wrap lines.** Some participants in Agora use email clients that require text to be wrapped to 80 characters. In order to accomodate this, we generally wrap all text to 72 characters. This is especially important for proposals, in which any rules text should mirror the formatting of the ruleset.
+
 # Message Filtering, Sorting, Management
 
 ## Setting up filters
