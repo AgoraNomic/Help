@@ -18,7 +18,7 @@ When a player sends a message intended to be an action to Agora-Discussion (wher
 
 There are certain habits that are not required by the game but help to keep the mailing list readable. Many clients will let you set these as defaults.
 
-**Bottom-Posting.** This is pretty much what it sounds like: Put your response below what you're responding to. Unfortunately many modern email clients default to top-posting. This doesn't work very well with threads that involve multiple people adding on, or when you want to respond to different parts of the message in their own sections.
+**Bottom-Posting.** This is pretty much what it sounds like: Put your response below what you're responding to. Unfortunately, many modern email clients default to top-posting. This doesn't work very well with threads that involve multiple people adding on, or when you want to respond to different parts of the message in their own sections.
 
 **Shortening Quotes.** One potential disadvantage to bottom-posting is that your response can end up under a mountain of text. It's generally advised that you trim down your response to just the part you're responding to. Many clients will do this automatically if you highlight some of the message before hitting reply.
 
