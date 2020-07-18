@@ -8,7 +8,7 @@ Of course, a big advantage of email is choice and portability. I and other exper
 
 # Mailing List Basics
 
-Agora is played on mailing lists. The mailing lists are set up such that when you send a message to one of the lists, it sends that message to all subscribers. Each list will prefix DIS, BUS, or OFF before new messages to the list and Re: before replies to existing messages.
+Agora is played on mailing lists. The mailing lists are set up such that when you send a message to one of the lists, it sends that message to all subscribers. Each list will prefix DIS, BUS, or OFF before new messages to the list.
 
 To reply to a message on the mailing list, simply hit reply but look at what is filled in for the "To:" field. If you did a normal reply to Agora-Business or Agora-Official, it's likely defaulting to sending your reply to Agora-Discussion. Just change the address if you want it to go elsewhere. Different reply methods (reply, reply to list, reply to sender) and different email clients will have different default behavior, so just double check that your message is going where you want it to.
 
