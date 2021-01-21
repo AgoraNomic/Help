@@ -32,6 +32,10 @@ Agora Discussion AKA agora-discussion@agoranomic.org AKA DIS
 
 Agora Official AKA agora-official@agoranomic.org AKA OFF
 
+### AIAN
+
+Agora Is A Nomic, Rule 1698. This rule prevents Agora from reaching a state where the rules cannot be changed by any mechanism.
+
 ### CFJ
 
 Call for Judgment. When there's confusion about something, players initiate a CFJ on a statement. Another player will judge the statement to resolve the confusion. CFJ### refers to a specific case.
