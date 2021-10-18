@@ -1,25 +1,21 @@
-# Subscribing
+## Step 1: Subscribe to the lists.
 
-Subscribing for the three main lists looks the same. FIll out your email address, and optionally a name and password (for accessing the private archives, if you want). **Don't use digest to play, it's difficult to follow along or reply to properly.**
+Self-explanatory. Subscribe to all the lists on the main page. Make sure to confirm too.
 
-![Image of a filled out agora-business subscription.](subscribe.png)
+## Step 2: Filter messages.
 
-Subscription to the backup lists is slightly different. Subscription to gio requires another player to manually approve it, which should happen shortly.
+Filter agora messages to their own folder. [On gmail](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter) a filter to catch everything would look like this:
 
-# Registering
+    list:(agora-business.agoranomic.org) OR list:(agora-discussion.agoranomic.org) OR list:(agora-official.agoranomic.org) OR list(agora@listserver.tue.nl) OR list(agora@groups.io)
+    
+All popular email providers and clients should provide some way to filter, just look it up.
 
-Registering simply requires saying you do, like so:
+## Step 3: Register
 
-![An example of what a registration email may look like.](register.png)
+Send a message to agora-business@agoranomic.org simply stating you intend to register. Something similar to below will work:
 
-# Voting
+![Image of an email that says "I register. Please call me nix."](register.png)
 
-Coming soon.
+## Optional: Join the Discord or IRC
 
-# Proposing
-
-Coming soon.
-
-# Other Actions
-
-Coming soon.
+Most players can be found at [the Agora discord](https://discord.gg/JCC6YGc) or [the Agora irc](irc://irc.libera.chat:6667/##nomic). Gameplay does not happen in either place, just discussion. Some messages will be passed between the places, meaning it should not be necessary to join both.
