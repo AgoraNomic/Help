@@ -64,6 +64,10 @@ Mother, May I? This refers to the rules that give special meaning to phrases lik
 
 Not to the Public Forum. Usually used when a player sends a message that looks like it's supposed to be an action, but they sent it to Agora-Discussion and so it is ineffective.
 
+### RWO
+
+Ratify without objection, a specific mechanism to change the gamestate outlined in R2202.
+
 ### SLR
 
 Short Logical Ruleset. Just the rules, with minimal annotation.
