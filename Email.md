@@ -36,7 +36,7 @@ You probably don't want Agora messages to go straight to your inbox. It's recomm
 
 The following filter will capture ALL agora emails:
 
-    list:(agora-business.agoranomic.org) OR list:(agora-discussion.agoranomic.org) OR list:(agora-official.agoranomic.org) OR list(agora@listserver.tue.nl)
+    list:(agora-business.agoranomic.org) OR list:(agora-discussion.agoranomic.org) OR list:(agora-official.agoranomic.org) OR list:(agora@listserver.tue.nl) OR list:(main@agora.groups.io)
     
 Apply this filter and mark 'never send to spam'. You can also apply a label and skip inbox if you want all Agora emails to go to a different folder.
 
